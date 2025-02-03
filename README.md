@@ -17,7 +17,7 @@ This project is a **Flappy Bird AI** implementation using **Deep Reinforcement L
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-repo/flappy-bird-ai.git
+git clone https://github.com/vedant713/flappy-bird-ai.git
 cd flappy-bird-ai
 ```
 
