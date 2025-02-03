@@ -28,7 +28,7 @@ pip install pygame numpy opencv-python flask flask-socketio stable-baselines3 te
 
 ### 3️⃣ Run the game:
 ```bash
-python flappy_ai.py
+python fba.py
 ```
 
 This will start the game **AND** the multiplayer server.
